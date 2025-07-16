@@ -653,5 +653,3 @@ class Driver():
                 fuel = 70
             if cargo_hp <= 0:
                 break
-driver = Driver()
-driver.game()
